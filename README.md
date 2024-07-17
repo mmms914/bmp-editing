@@ -7,23 +7,23 @@
 ## Возможности
 - Изменение яркости изображения
     
-  ![image](https://github.com/user-attachments/assets/c24a3da7-1d52-4606-8245-927b82aefceb)  
+  ![image](https://github.com/user-attachments/assets/4284bb19-da88-4d81-bb77-6c54b6d9c647)
   
 
 - Изменение яркости изображения
   
-  ![image](https://github.com/user-attachments/assets/b82662ca-0181-4a0d-9d0b-6e8ab2583041)
-  
+  ![image](https://github.com/user-attachments/assets/25a4f3fb-bc25-468f-8948-5c38f0d812c3)
+
   
 - Уменьшение разрешающей способности изображение сверткой пикселей
   
-  ![image](https://github.com/user-attachments/assets/6caf9495-05bb-42ec-9dda-be53d0f502fc)
-  
+  ![image](https://github.com/user-attachments/assets/692ad67f-faf7-4044-9267-aa26c065a8ef)
+
   
 - "Натягивание" изображения на сферу
   
-  ![image](https://github.com/user-attachments/assets/3cf79212-c2e0-4b69-9a52-9f6c79d28aad)
-  
+  ![image](https://github.com/user-attachments/assets/fc3b35bf-367a-47f8-85d7-c2d8dc00b56c)
+
 
 ## Использование
 Запустите программу в консоли и вводите последовательно режим и параметры (указываются после выбора режима).  
